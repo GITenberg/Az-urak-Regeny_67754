@@ -1,0 +1,33 @@
+_repo: Az-urak-Regeny_67754
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Heyer, Arthur
+    gutenberg_agent_id: '54439'
+    url: http://www.gutenberg.org/2009/agents/54439
+creator:
+  author:
+    agent_name: Tolnai, Lajos
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '52982'
+    url: http://www.gutenberg.org/2009/agents/52982
+    wikipedia: https://hu.wikipedia.org/wiki/Tolnai_Lajos_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2022-04-01'
+identifiers:
+  gutenberg: '67754'
+language: hu
+pgterms:marc905: 20220320182611tolnai
+pgterms:marc906: '1909'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Az urak: Regény'
+url: http://www.gutenberg.org/ebooks/67754
