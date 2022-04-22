@@ -5,6 +5,9 @@ contributor:
     agent_name: Heyer, Arthur
     gutenberg_agent_id: '54439'
     url: http://www.gutenberg.org/2009/agents/54439
+covers:
+- cover_type: archival
+  image_path: 67754-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolnai, Lajos
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52982
     wikipedia: https://hu.wikipedia.org/wiki/Tolnai_Lajos_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67754#Az-urak-Regeny
 gutenberg_issued: '2022-04-01'
 identifiers:
   gutenberg: '67754'
